@@ -1,1 +1,10 @@
-package.json
+{
+  "name": "aws-cicd-demo",
+  "version": "1.0.0",
+  "description": "Simple CI/CD demo for AWS CodeBuild and CodePipeline",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {}
+}
