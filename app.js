@@ -1,1 +1,2 @@
-console.log("Hello from AWS CI/CD Pipeline!")
+console.log("Hello from AWS CI/CD Pipeline!");
+
